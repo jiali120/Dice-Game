@@ -1,7 +1,7 @@
 My accomplishments for this deliverable:
 
-+ Added individual assigment5 UML and description file
-+ Complete the discussion task with the group
-+ Reviewed each team member's design
-+ Vote with the team on the best design diagram
-+ The format of UML was sorted out and added some attributes and operations
++ Finished UseCaseModel.md
++ Finished parts 3 and 4 for DesignDocument.md
++ Reviewed each team member's document
++ Completed the discussion with the group about assigned tasks
++ Finished discussing with the team whether the use case model diagram is accurate and made changes
